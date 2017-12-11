@@ -1,3 +1,36 @@
+body {
+  margin: 0;
+  font-family: tahoma;
+}
+
+header {
+  background: rgba(0, 0, 0, 0.75);
+  text-align: center;
+}
+
+.logo {
+  color: #fff;
+  font-size: 40px;
+  font-family: tahoma;
+}
+
+header input {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.post_description{
+  padding: 20px;
+  box-sizing: border-box;
+  border-bottom: 1px solid grey;
+}
+
+//Material Icons
+
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
